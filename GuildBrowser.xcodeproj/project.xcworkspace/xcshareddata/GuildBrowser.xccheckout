@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>82A6B99F-4A77-47CC-9C1B-0C70AA2B6F69</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GuildBrowser</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4E38C9418ECE6145367103D715D1A3ACEA29EA42</key>
+		<string>github.com:dnawym/GuildBrowser.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GuildBrowser.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4E38C9418ECE6145367103D715D1A3ACEA29EA42</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:dnawym/GuildBrowser.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4E38C9418ECE6145367103D715D1A3ACEA29EA42</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4E38C9418ECE6145367103D715D1A3ACEA29EA42</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GuildBrowser</string>
+		</dict>
+	</array>
+</dict>
+</plist>
